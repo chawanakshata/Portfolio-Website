@@ -332,7 +332,9 @@ span{
             transform: rotate(360deg);
         }
     }
-    
+    body{
+        background: black;
+    }
     .heading{
         /* position: relative; */
         max-width: 100%;
